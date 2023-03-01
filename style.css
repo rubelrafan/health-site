@@ -93,11 +93,29 @@ h1 {
     text-align: center;
 }
 
-.fourth-heading {
-    margin-top: 40px;
-    color: rgb(85, 84, 84);
+.fourth-sec {
+    display: flex;
+
+    width: 100%;
+    height: auto;
+
+
 }
 
-.fourth-sec-text {
-    color: rgb(85, 84, 84);
+.double-box {
+    width: 34%;
+    height: auto;
+    border-radius: 30px;
+    box-shadow: 0 0 8px grey;
+    margin: 0 auto;
+    padding-left: 15px;
+
+
+}
+
+.double-box img {
+    width: 95%;
+    height: 300px;
+    padding: 5px;
+    margin-top: 15px;
 }
