@@ -1,0 +1,103 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-banner {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.single-text-color {
+    color: tomato;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+    color: rgb(65, 65, 65);
+
+}
+
+.first-left {
+    margin-top: 90px;
+}
+
+.first-left-p {
+    color: rgb(71, 71, 71);
+    margin-bottom: 40px;
+
+
+}
+
+.first-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 25px;
+    padding: 10px 40px;
+    box-shadow: 5px 5px 3px gray;
+
+}
+
+.second-section {
+    background-image: url(images/Frame\ 57.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    background-position: fixed;
+    height: 650px;
+
+    margin-top: 150px;
+}
+
+
+
+.second-left {
+    width: 50%;
+}
+
+
+
+.second-left img {
+    height: 600px;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.second-right {
+    margin-left: 250px;
+    margin-top: 30px;
+    width: 50%;
+    padding: 20px;
+}
+
+.about-heading {
+    margin-top: 140px;
+    color: rgb(85, 84, 84);
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.second-sec-text {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    padding-right: 40px;
+}
+
+.third-section {
+    text-align: center;
+}
+
+.fourth-heading {
+    margin-top: 40px;
+    color: rgb(85, 84, 84);
+}
+
+.fourth-sec-text {
+    color: rgb(85, 84, 84);
+}
